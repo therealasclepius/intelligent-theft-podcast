@@ -38,7 +38,7 @@ export default function Home() {
           </div>
 
           {/* Early Access Form */}
-          <div className="pt-12">
+          <div className="pt-2">
             <KitSignup />
           </div>
 
