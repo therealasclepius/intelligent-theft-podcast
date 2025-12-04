@@ -26,7 +26,6 @@ export default function Home() {
               Build What Matters.
             </p>
           </div>
-
           {/* Description */}
           <div className="max-w-2xl mx-auto space-y-4 pt-8">
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
